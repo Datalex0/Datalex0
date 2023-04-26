@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 I'm Alexis and this is my Github !  
-[My LinkedIn](https://www.linkedin.com/in/alexis-murail/) 
-<a href="https://www.linkedin.com/in/alexis-murail/" target="_blank">My LinkedIn</a>
+[My LinkedIn](https://www.linkedin.com/in/alexis-murail/)   
+<a href="https://www.linkedin.com/in/alexis-murail/" target="_blank">My LinkedIn</a>  
+[My LinkedIn](https://www.linkedin.com/in/alexis-murail/){:target="_blank"}  
 
   
 <ins>Mes Centres d'Intérêt Tech :</ins>
