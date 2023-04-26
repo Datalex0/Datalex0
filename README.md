@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 **mot** = bold
 _mot_ = italic
-<ins> mot <ins> = souligné
+<ins> mot </ins> = souligné
 [Visit GitHub!](www.github.com) = lien vers github
 ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png) = image [alt](lien)
 > " phrase " = bloc de citation (ou > à chaque ligne si plusieurs paragraphes)
