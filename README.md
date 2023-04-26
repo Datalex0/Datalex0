@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Alexis and this is my Github !
+[My LinkedIn](https://www.linkedin.com/in/alexis-murail/) 
 
 Mes Centres d'Intérêt Tech :
 
@@ -9,6 +10,7 @@ Mes Centres d'Intérêt Tech :
 :chart_with_upwards_trend: Data Analyse
 
 :1234: Data Science
+
 
 
 Vous pourrez trouver :
@@ -31,6 +33,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+**mot** = bold
+_mot_ = italic
+[Visit GitHub!](www.github.com) = lien vers github
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png) = image [alt](lien)
+> " phrase " = bloc de citation (ou > à chaque ligne si plusieurs paragraphes)
+* = point pour liste
+ * = point pour sous-liste
+1. = liste numérotée
+(2 espaces) = pour aller à la ligne
+Emojis : https://gist.github.com/rxaviers/7360908
+
 -->
 
 
