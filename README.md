@@ -11,6 +11,8 @@ I'm Alexis and this is my Github !
 * :chart_with_upwards_trend: Data Analyse
 
 * :1234: Data Science
+
+* 🤖 IA 
   
 
 
