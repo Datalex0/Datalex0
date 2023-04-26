@@ -4,23 +4,23 @@ I'm Alexis and this is my Github !
 [My LinkedIn](https://www.linkedin.com/in/alexis-murail/) 
   
   
-Mes Centres d'Intérêt Tech :
+<ins>Mes Centres d'Intérêt Tech :</ins>
 
-:computer: Code (Python)
+* :computer: Code (Python)
 
-:chart_with_upwards_trend: Data Analyse
+* :chart_with_upwards_trend: Data Analyse
 
-:1234: Data Science
+* :1234: Data Science
   
 
 
-Vous pourrez trouver :
+<ins>Vous pourrez trouver :<ins>
 
-:bar_chart: Mes projets orientés Data Analyse réalisés à la Wild Code School :school:
+* :bar_chart: Mes projets orientés Data Analyse réalisés à la Wild Code School :school:
 
-:game_die: Mes projets persos (jeux et autres...) :black_joker:
+* :game_die: Mes projets persos (jeux et autres...) :black_joker:
 
-:musical_keyboard: Un piano encore en cours d'édition (A venir) :notes:
+* :musical_keyboard: Un piano encore en cours d'édition (A venir) :notes:
 <!--
 **Datalex0/Datalex0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
