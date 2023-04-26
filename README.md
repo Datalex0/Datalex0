@@ -2,7 +2,8 @@
 
 I'm Alexis and this is my Github !
 [My LinkedIn](https://www.linkedin.com/in/alexis-murail/) 
-
+  
+  
 Mes Centres d'Intérêt Tech :
 
 :computer: Code (Python)
@@ -10,7 +11,7 @@ Mes Centres d'Intérêt Tech :
 :chart_with_upwards_trend: Data Analyse
 
 :1234: Data Science
-
+  
 
 
 Vous pourrez trouver :
