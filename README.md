@@ -21,9 +21,9 @@ I'm Alexis and this is my Github !
 * :bar_chart: Mes projets orientés Data Analyse réalisés à la Wild Code School :school:
 
 * :game_die: Mes projets persos (jeux et autres...) :black_joker:
-
-* :musical_keyboard: Un piano encore en cours d'édition (A venir) :notes:
 <!--
+* :musical_keyboard: Un piano encore en cours d'édition (A venir) :notes:
+
 **Datalex0/Datalex0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
