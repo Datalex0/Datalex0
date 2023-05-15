@@ -18,7 +18,7 @@ I'm Alexis and this is my Github !
 
 ### <ins>Vous pourrez trouver :<ins>
 
-* :bar_chart: Mes projets orientés Data Analyse réalisés à la Wild Code School :school:
+* :bar_chart: Mes projets orientés Data Analyse / Data Science réalisés à la Wild Code School :school:
 
 * :game_die: Mes projets persos (jeux et autres...) :black_joker:
 
