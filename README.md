@@ -6,7 +6,7 @@ I'm Alexis and this is my Github !
   
 ## <ins>Mes Centres d'Intérêt Tech :</ins>
 
-* :computer: Code (Python :snake:)
+* :computer: Code (Préférence pour Python :snake:)
 
 * :chart_with_upwards_trend: Data Analyse
 
