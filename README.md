@@ -27,7 +27,7 @@ I'm Alexis and this is my Github !
   * [Un Chifoumi](https://github.com/Datalex0/Chifoumi.git) (premier projet perso en début de formation)
   * [Un BlackJack](https://github.com/Datalex0/BlackJack.git) (deuxième projet perso)
 
-* :musical_keyboard: <ins>Des pianos virtuels</ins> :notes:
+* :musical_keyboard: <ins>Mes pianos virtuels</ins> :notes:
   * [Un piano](https://github.com/Datalex0/Piano-souris.git) affiché à l'écran qui se joue à la souris
   * [Un piano](https://github.com/Datalex0/Piano-clavier.git) qui se joue avec les touches du clavier
 
