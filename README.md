@@ -18,16 +18,16 @@ I'm Alexis and this is my Github !
 
 ### <ins>Vous pourrez trouver :<ins>
 
-* :bar_chart: Mes projets orientés Data Analyse / Data Science réalisés à la Wild Code School :school:
+* :bar_chart: <ins>Mes projets orientés Data Analyse / Data Science réalisés à la Wild Code School</ins> :school:
   * [Projet Toys&Co](https://github.com/Datalex0/Toys-and-Co.git) (SQL, Power BI, Tableau)
   * [Projet Spotify Project](https://github.com/Datalex0/Spotify-Project.git) (Python, Machine Learning, Streamlit)
   * [Projet Ciné Metrics Consulting](https://github.com/Datalex0/Cine-Metrics-Consulting.git) (Python, Machine Learning, Streamlit)
 
-* :game_die: Mes projets persos (jeux) : :black_joker:
+* :game_die: <ins>Mes projets persos (jeux)</ins> : :black_joker:
   * [Un Chifoumi](https://github.com/Datalex0/Chifoumi.git) (premier projet perso en début de formation)
   * [Un BlackJack](https://github.com/Datalex0/BlackJack.git) (deuxième projet perso)
 
-* :musical_keyboard: Des pianos virtuels :notes:
+* :musical_keyboard: <ins>Des pianos virtuels</ins> :notes:
   * [Un piano](https://github.com/Datalex0/Piano-souris.git) affiché à l'écran qui se joue à la souris
   * [Un piano](https://github.com/Datalex0/Piano-clavier.git) qui se joue avec les touches du clavier
 
