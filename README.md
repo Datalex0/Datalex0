@@ -23,7 +23,7 @@ I'm Alexis and this is my Github !
   * [Projet Spotify Project](https://github.com/Datalex0/Spotify-Project.git) (Python, Machine Learning, Streamlit)
   * [Projet Ciné Metrics Consulting](https://github.com/Datalex0/Cine-Metrics-Consulting.git) (Python, Machine Learning, Streamlit)
 
-* :game_die: Mes projets persos (jeux et autres...) : :black_joker:
+* :game_die: Mes projets persos (jeux) : :black_joker:
   * [Un Chifoumi](https://github.com/Datalex0/Chifoumi.git) (premier projet perso en début de formation)
   * [Un BlackJack](https://github.com/Datalex0/BlackJack.git) (deuxième projet perso)
 
