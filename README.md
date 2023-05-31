@@ -19,10 +19,17 @@ I'm Alexis and this is my Github !
 ### <ins>Vous pourrez trouver :<ins>
 
 * :bar_chart: Mes projets orientés Data Analyse / Data Science réalisés à la Wild Code School :school:
+  * Projet Toys&Co (SQL, Power BI, Tableau)
+  * Projet Spotify Project (Python, Machine Learning, Streamlit)
+  * Projet Ciné Metrics Consulting (Python, Machine Learning, Streamlit)
 
-* :game_die: Mes projets persos (jeux et autres...) :black_joker:
+* :game_die: Mes projets persos (jeux et autres...) : :black_joker:
+  * Un Chifoumi (premier projet perso en début de formation)
+  * Un BlackJack (deuxième projet perso)
 
 * :musical_keyboard: Des pianos virtuels :notes:
+  * Un piano affiché à l'écran qui se joue à la souris
+  * Un piano qui se joue avec les touches du clavier
 
   <!--
 **Datalex0/Datalex0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
