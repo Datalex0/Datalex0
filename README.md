@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Alexis and this is my Github !  
 [My LinkedIn](https://www.linkedin.com/in/alexis-murail/)   
 
   
-### <ins>Mes Centres d'Intérêt Tech :</ins>
+## <ins>Mes Centres d'Intérêt Tech :</ins>
 
 * :computer: Code (Python :snake:)
 
@@ -16,7 +16,7 @@ I'm Alexis and this is my Github !
   
 
 
-### <ins>Vous pourrez trouver :<ins>
+## <ins>Vous pourrez trouver :<ins>
 
 * :bar_chart: <ins>Mes projets orientés Data Analyse / Data Science réalisés à la Wild Code School</ins> :school:
   * [Projet Toys&Co](https://github.com/Datalex0/Toys-and-Co.git) (SQL, Power BI, Tableau)
