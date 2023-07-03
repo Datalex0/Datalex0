@@ -20,8 +20,12 @@ I'm Alexis and this is my Github !
 
 * :bar_chart: <ins>Mes projets orientés Data Analyse / Data Science réalisés à la Wild Code School</ins> :school:
   * [Projet Toys&Co](https://github.com/Datalex0/Toys-and-Co.git) (SQL, Power BI, Tableau)
-  * [Projet Spotify Project](https://github.com/Datalex0/Spotify-Project.git) (Python, Machine Learning, Streamlit)
   * [Projet Ciné Metrics Consulting](https://github.com/Datalex0/Cine-Metrics-Consulting.git) (Python, Machine Learning, Streamlit)
+  * Projet ADN Tourisme (Python, NLP, Machine Learning, API) - (En cours...)
+ 
+* :zap: <ins>Mes Hackathons réalisés à la Wild Code School</ins> :trophy:
+  * [Projet Spotify Project](https://github.com/Datalex0/Spotify-Project.git) (Python, Machine Learning, Streamlit) => Victoire
+  * [Projet SolidariTech](https://github.com/Datalex0/SolidariTech.git) (Python, Streamlit, Power BI, Tableau) => Finaliste
 
 * :game_die: <ins>Mes projets persos (jeux)</ins> : :black_joker:
   * [Un Chifoumi](https://github.com/Datalex0/Chifoumi.git) (premier projet perso en début de formation)
