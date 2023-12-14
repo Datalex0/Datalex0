@@ -32,7 +32,8 @@ I'm Alexis and this is my Github !
 
 * :game_die: <ins>Mes projets persos (jeux)</ins> : :black_joker:
   * [Un Chifoumi](https://github.com/Datalex0/Chifoumi.git) (premier projet perso en début de formation)
-  * [Un BlackJack](https://github.com/Datalex0/BlackJack.git) (deuxième projet perso)
+  * [Un BlackJack](https://github.com/Datalex0/BlackJack.git)
+  * [Un Jeu des Jarres](https://github.com/Datalex0/Jeu-des-Jarres.git)
 
 * :musical_keyboard: <ins>Mes pianos virtuels</ins> :notes:
   * [Un piano](https://github.com/Datalex0/Piano-souris.git) affiché à l'écran qui se joue à la souris
