@@ -20,11 +20,12 @@ I'm Alexis and this is my Github !
 ##
 ### <ins>Vous pourrez trouver :<ins>
 
-* :bar_chart: <ins>Mes projets orientés Data Analyse / Data Science réalisés à la Wild Code School</ins> :school:
+* :bar_chart: <ins>Mes projets orientés Data réalisés à la Wild Code School</ins> :school:
   * [Projet Toys&Co](https://github.com/Datalex0/Toys-and-Co.git) (SQL, Power BI, Tableau)
   * [Projet Ciné Metrics Consulting](https://github.com/Datalex0/Cine-Metrics-Consulting.git) (Python, Machine Learning, Streamlit)
   * [Projet ADN Tourisme](https://github.com/Datalex0/Data_Kena.git) (Python, NLP, Machine Learning, API, Streamlit)
-  * [Domaine des Croix](https://github.com/Datalex0/Domaine-des-Croix.git) (Projet passage de la Certification Data Analyst - Python, Dataviz, Geocoding, Machine Learning, NLP, Streamlit)
+  * [Domaine des Croix](https://github.com/Datalex0/Domaine-des-Croix.git) (Projet passage de la Certification Data Analyst - Python, Data Visualisation, Geocoding, Machine Learning, NLP, Streamlit)
+  * [Application de Gestion de Librairie](https://github.com/Datalex0/Gestionnaire_de_Librairie.git) (MongoDB, Python, PyMongo, Streamlit, Data Visualisation)
  
 * :zap: <ins>Mes Hackathons réalisés à la Wild Code School</ins> :trophy:
   * [Projet Spotify Project](https://github.com/Datalex0/Spotify-Project.git) (Python, Machine Learning, Streamlit) => Victoire 🥇
