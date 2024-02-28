@@ -20,6 +20,11 @@ I'm Alexis and this is my Github !
 ##
 ### <ins>Vous pourrez trouver :<ins>
 
+* :bar_chart: <ins>Mes projets orientés Data réalisés en formation POEC chez DIGINAMIC </ins> :school:
+   * [Projet Machine Learning](https://github.com/Datalex0/FATAL_ML.git) (Python, Scikit-Learn, Streamlit)
+   * [Projet Big Data / BI](https://github.com/Datalex0/FATAL-BIG-DATA.git) (Hadoop, Python, Power BI)
+   * [Application de Gestion de Librairie](https://github.com/Datalex0/Gestionnaire_de_Librairie.git) (MongoDB, Python, PyMongo, Streamlit, Data Visualisation)
+
 * :bar_chart: <ins>Mes projets orientés Data réalisés à la Wild Code School</ins> :school:
   * [Projet Toys&Co](https://github.com/Datalex0/Toys-and-Co.git) (SQL, Power BI, Tableau)
   * [Projet Ciné Metrics Consulting](https://github.com/Datalex0/Cine-Metrics-Consulting.git) (Python, Machine Learning, Streamlit)
