@@ -24,6 +24,7 @@ I'm Alexis and this is my Github !
    * [Projet Machine Learning](https://github.com/Datalex0/FATAL_ML.git) (Python, Scikit-Learn, Streamlit)
    * [Projet Big Data / BI](https://github.com/Datalex0/FATAL-BIG-DATA.git) (Hadoop, Python, Power BI)
    * [Application de Gestion de Librairie](https://github.com/Datalex0/Gestionnaire_de_Librairie.git) (MongoDB, Python, PyMongo, Streamlit, Data Visualisation)
+   * [TP Power BI](https://github.com/Datalex0/TP_PowerBI.git) (Power BI)
        
 * :bar_chart: <ins>Mes projets orientés Data réalisés à la Wild Code School</ins> :school:
   * [Projet Toys&Co](https://github.com/Datalex0/Toys-and-Co.git) (SQL, Power BI, Tableau)
